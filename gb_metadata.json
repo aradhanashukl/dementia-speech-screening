@@ -1,0 +1,11 @@
+{
+    "model": "Gradient Boosting Classifier",
+    "features": 8,
+    "threshold": 0.45,
+    "validation_accuracy": 0.737,
+    "roc_auc": 0.856,
+    "dataset_size": 5332,
+    "dementia_samples": 2904,
+    "control_samples": 2428,
+    "note": "Final model selected after baseline logistic regression"
+}
